@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munj-p" alt="munj-p" /></a> </p>
 
-- 🌱 I’m currently learning **C++ in detail**
+- 🌱 I’m currently learning 
 
-- 💬 Ask me about **Basics of prograprograming in languages like c,c++, or python**
+- 💬 i'm about **Basics of prograprograming in languages like c,c++, or shell scripting**
 
 - 📫 How to reach me **munjparmar@gmail.com**
 
-- ⚡ Fun fact **My favorite programming language? Whatever one I'm struggling with at the moment. 🤖**
+- **My favorite programming language? Whatever one I'm struggling with at the moment. 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
