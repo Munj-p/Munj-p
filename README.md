@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Munjalsinh Parmar</h1>
-<h3 align="center">a Computer Science Student</h3>
+<h3 align="center">a Cybersecurity Student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munj-p" alt="munj-p" /></a> </p>
 
