@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munj-p" alt="munj-p" /></a> </p>
 
-- 💬 i'm about **Basics of prograprograming in languages like c,c++, or shell scripting**
 
 - 📫 How to reach me **munjparmar@gmail.com**
 
